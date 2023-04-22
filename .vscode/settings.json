@@ -1,0 +1,5 @@
+{"code-runner.executorMap": {
+    "typescript": "/Users/a1/.nvm/versions/node/v18.15.0/bin/npx ts-node -r ./tsconfig.json "
+  }
+}
+  

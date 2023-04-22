@@ -1,0 +1,31 @@
+{
+  "name": "tornado-goerli",
+  "version": "1.0.0",
+  "description": "调用tornado接口的方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinLL/tornado-goerli.git"
+  },
+  "keywords": [
+    "tornado",
+    "goerli",
+    "api"
+  ],
+  "author": "LGrok",
+  "type":"module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinLL/tornado-goerli/issues"
+  },
+  "homepage": "https://github.com/LinLL/tornado-goerli#readme",
+  "dependencies": {
+    "@umbracash/umbra-js": "^0.1.1",
+    "snarkjs": "^0.6.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
