@@ -1,0 +1,1 @@
+console.log(`${String(process.env.INFURA_ID)}`)
